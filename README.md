@@ -1,1 +1,6 @@
-"# DataBinding_example" 
+DataBinding 코드입니다. 
+
+
+DataBinding을 통해 텍스트를 입력하였으며 클릭이벤트를 감지하면 
+설정된 텍스트 데이터로 변경이 되도록 하였습니다.
+
